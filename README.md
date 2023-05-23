@@ -1,2 +1,2 @@
-# tasks_python
-University tasks on python
+### Практические работы по дисциплине "Программирование на Python"
+University tasks on Python
